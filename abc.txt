@@ -1,2 +1,16 @@
 Hello world
 Second change
+git init
+git status
+git add <file name>
+git commit -m "message "
+
+
+git push 
+git pull
+
+git remote
+
+
+
+git diff <file name>
